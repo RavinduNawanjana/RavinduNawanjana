@@ -1,6 +1,6 @@
 # Ravindu Nawanjana
 
-### Environmental Economist · Climate Finance · Sustainable Finance · Carbon Markets
+### Environmental Economist | Climate Finance | Sustainable Finance | Carbon Markets
 
 [![Website](https://img.shields.io/badge/Website-ravindunawanjana.github.io-0b3d8f?style=flat-square&logo=githubpages&logoColor=white)](https://ravindunawanjana.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravindu%20Nawanjana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindunawanjana/)
