@@ -28,7 +28,7 @@ My research portfolio combines **mixed methods, econometrics, reproducible stati
 
 **Practitioner perspectives on institutional collaboration and multilateral climate funds in the Group of 77 and China**
 
-Mixed-methods research on institutional collaboration, blended finance deployment, policy and regulatory alignment, transparency and climate-finance architecture. The public computational companion uses **R + Quarto** for reproducible statistical analysis and research reporting.
+Mixed-methods research on institutional collaboration, blended finance deployment, policy and regulatory alignment, transparency and climate-finance architecture. The public repository uses **R + Quarto** for reproducible statistical analysis and research reporting.
 
 [![Repository](https://img.shields.io/badge/Repository-multilateral--climate--finance--architecture-2f6d4f?style=flat-square&logo=github)](https://github.com/RavinduNawanjana/multilateral-climate-finance-architecture)
 
@@ -107,4 +107,4 @@ I have participated in international environmental and climate-policy forums and
 
 ---
 
-<sub>Research repositories are computational companions and evidence portfolios. They do not imply endorsement by institutions, journals, project partners or organisations referenced in the underlying work.</sub>
+<sub>Research repositories document methods, evidence and reproducible analysis. References to institutions, journals, project partners or organisations do not imply endorsement.</sub>
