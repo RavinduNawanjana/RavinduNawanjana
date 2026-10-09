@@ -86,7 +86,7 @@ R-first reproducible analysis of the associated Figshare survey and SPSS files. 
 
 I have participated in international environmental and climate-policy forums and maintain a separate archive of selected media and public-engagement coverage on my website.
 
-[![Media](https://img.shields.io/badge/Media%20%26%20Public%20Engagement-View%20archive-2f6d4f?style=flat-square)](https://ravindunawanjana.github.io/media/)
+[![Media](https://img.shields.io/badge/Media%20%26%20Public%20Engagement-View%20archive-2f6d4f?style=flat-square)](https://ravindunawanjana.github.io/media)
 
 ## GitHub activity
 
